@@ -9,7 +9,7 @@ by Subhadeep Maishal
 
 
 
- tests in Ocean!
+ tests in OceanS!
 
  
 
